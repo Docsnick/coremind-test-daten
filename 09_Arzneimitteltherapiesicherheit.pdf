@@ -1,0 +1,49 @@
+# Arzneimitteltherapiesicherheit in der Onkologie
+
+## Was versteht man unter Arzneimitteltherapiesicherheit (AMTS)?
+
+AMTS umfasst alle Maßnahmen zur Gewährleistung eines optimalen Medikationsprozesses mit dem Ziel, Medikationsfehler und vermeidbare Risiken für Patienten zu verringern. In der Onkologie ist dies besonders relevant aufgrund der hohen Toxizität und schmalen therapeutischen Breite.
+
+## Welche besonderen Risiken bestehen in der Onkologie?
+
+Zytostatika haben eine geringe therapeutische Breite, komplexe Dosierungsschemata und schwerwiegende Nebenwirkungen. Viele Patienten erhalten Polypharmazie mit hohem Interaktionspotential. Orale Tumortherapeutika erfordern hohe Therapietreue der Patienten.
+
+## Wie kann das Mehraugenprinzip implementiert werden?
+
+Bei Chemotherapie-Verordnung, -zubereitung und -applikation ist grundsätzlich das Mehraugenprinzip anzuwenden. Zwei qualifizierte Personen überprüfen unabhängig voneinander Patientendaten, Dosierungen und Berechnungen. Dokumentation aller Kontrollen ist erforderlich.
+
+## Welche Rolle spielt die Pharmazie?
+
+Krankenhaus- und Offizin-Apotheker prüfen onkologische Verordnungen auf Dosierung, Kontraindikationen und Interaktionen. Sie beraten bei komplexen Fragestellungen und überwachen die Arzneimitteltherapie. Pharmazeutische Betreuung verbessert nachweislich die AMTS.
+
+## Was ist bei oraler Tumortherapie zu beachten?
+
+Orale Tumortherapeutika erfordern intensive Patientenaufklärung über Einnahme, Nebenwirkungen und Interaktionen. Regelmäßige Kontrollen der Therapietreue sind notwendig. Spezielle Beratungskonzepte wie AMBORA verbessern die Sicherheit und Patientencompliance.
+
+## Welche Interaktionen sind besonders relevant?
+
+Viele Tumortherapeutika sind Substrate von CYP450-Enzymen oder P-Glykoprotein. Interaktionen mit Protonenpumpenhemmern, Antikonvulsiva oder pflanzlichen Präparaten können die Wirksamkeit beeinträchtigen. Systematische Interaktionsprüfung ist bei jeder Verordnung erforderlich.
+
+## Wie werden Dosierungsfehler vermieden?
+
+Standardisierte Dosierungsformeln und elektronische Verordnungssysteme reduzieren Berechnungsfehler. Body-Surface-Area (BSA) wird exakt berechnet. Maximaldosen sind definiert. Dosisanpassungen bei Nieren- oder Leberfunktionsstörungen folgen festen Algorithmen.
+
+## Was umfasst das Nebenwirkungsmanagement?
+
+Systematisches Screening auf Nebenwirkungen mit validierten Scores (CTCAE). Präventive Maßnahmen wie Antiemetika oder G-CSF nach festen Protokollen. Frühzeitige Intervention bei Toxizitäten. Dosisreduktionen oder Therapiepausen nach klaren Kriterien.
+
+## Wie erfolgt die Patientenaufklärung?
+
+Strukturierte Aufklärung über Wirkung, Nebenwirkungen, Einnahmehinweise und Notfallverhalten. Schriftliche Informationsmaterialien ergänzen das Gespräch. Verständniskontrolle durch Rückfragen. Kontaktmöglichkeiten für Notfälle werden mitgeteilt.
+
+## Welche Rolle spielen elektronische Systeme?
+
+CPOE-Systeme (Computerized Physician Order Entry) mit integrierter Entscheidungsunterstützung reduzieren Verordnungsfehler. Automatische Interaktions- und Dosierungsprüfung. Elektronische Dokumentation verbessert die Nachvollziehbarkeit.
+
+## Wie wird die AMTS kontinuierlich verbessert?
+
+Etablierung von Fehlermeldesystemen (CIRS) zur anonymen Meldung von Beinahe-Fehlern. Regelmäßige Medikationsanalysen identifizieren Risikobereiche. Multidisziplinäre AMTS-Teams entwickeln Verbesserungsmaßnahmen. Fortbildungen sensibilisieren alle Beteiligten.
+
+## Was ist bei Studienmedikation zu beachten?
+
+Studienmedikation unterliegt besonderen Regelungen (GCP, AMG). Lagerung, Dokumentation und Rückgabe sind strikt geregelt. Besondere Aufklärung über experimentellen Charakter. Alle Nebenwirkungen sind als SAE/SUSAR zu melden.

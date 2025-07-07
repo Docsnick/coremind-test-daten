@@ -1,0 +1,49 @@
+# Datenschutz und IT-Sicherheit in der Onkologie
+
+## Welche rechtlichen Grundlagen gelten?
+
+Die Datenschutz-Grundverordnung (DSGVO), das Bundesdatenschutzgesetz (BDSG) und Landeskrankenhausgesetze bilden den rechtlichen Rahmen. Patientendaten unterliegen besonderen Schutzbestimmungen als sensitive Gesundheitsdaten.
+
+## Welche besonderen Anforderungen gelten für Gesundheitsdaten?
+
+Gesundheitsdaten sind besondere Kategorien personenbezogener Daten nach Art. 9 DSGVO. Verarbeitung ist nur bei expliziter Einwilligung, gesetzlicher Erlaubnis oder lebenswichtigen Interessen zulässig. Höhere Sicherheitsanforderungen und Dokumentationspflichten.
+
+## Was umfasst das Verarbeitungsverzeichnis?
+
+Dokumentation aller Datenverarbeitungsvorgänge mit Zweck, Kategorien, Empfängern, Speicherdauer und Sicherheitsmaßnahmen. Spezielle Einträge für Tumordokumentation, Krebsregister-Meldungen und Studienteilnahmen.
+
+## Welche Rechte haben Patienten?
+
+Auskunftsrecht über gespeicherte Daten, Berichtigungsrecht bei falschen Angaben, Löschungsrecht (Recht auf Vergessenwerden), Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruchsrecht. Anfragen müssen binnen vier Wochen beantwortet werden.
+
+## Wie erfolgt die Einwilligung bei Krebspatienten?
+
+Einwilligung muss freiwillig, informiert und spezifisch erfolgen. Aufklärung über Datenverwendung in verständlicher Sprache. Widerrufsmöglichkeit jederzeit. Besondere Vorsicht bei vulnerablen Patienten. Separate Einwilligung für Forschung.
+
+## Welche Sicherheitsmaßnahmen sind erforderlich?
+
+Technische Maßnahmen: Verschlüsselung, Zugangskontrollen, Firewalls, regelmäßige Updates. Organisatorische Maßnahmen: Benutzerrechte-Management, Schulungen, Backup-Konzepte, Incident Response. Physische Sicherheit der IT-Infrastruktur.
+
+## Wie werden Zugriffsrechte verwaltet?
+
+Rollenbasierte Zugriffskontrolle nach Need-to-Know-Prinzip. Getrennte Benutzerkonten für verschiedene Systeme. Regelmäßige Überprüfung und Anpassung der Berechtigungen. Sofortige Sperrung bei Mitarbeiterwechsel.
+
+## Was ist bei Tumordokumentation und Krebsregistern zu beachten?
+
+Gesetzliche Meldepflicht nach Landeskrebsregistergesetzen. Pseudonymisierung der Daten. Separate Datenschutzerklärung für Patienten. Sichere Datenübertragung. Aufbewahrungsfristen beachten.
+
+## Wie erfolgt die sichere Kommunikation?
+
+E-Mail-Verschlüsselung bei sensiblen Inhalten. Sichere Messenger-Dienste für interne Kommunikation. VPN-Verbindungen für externen Zugriff. Verzicht auf unsichere Kommunikationskanäle wie WhatsApp für Patientendaten.
+
+## Was ist bei Homeoffice und mobilen Geräten zu beachten?
+
+Mobile Device Management (MDM) für Smartphones und Tablets. VPN-Zugang für Heimarbeitsplätze. Sichere Aufbewahrung von Geräten. Keine Patientendaten auf privaten Geräten. Clear-Desk-Policy auch zu Hause.
+
+## Wie erfolgt das Incident Management bei Datenschutzvorfällen?
+
+Sofortige Meldung an Datenschutzbeauftragten. Binnen 72 Stunden Meldung an Aufsichtsbehörde bei hohem Risiko. Betroffene Patienten informieren. Ursachenanalyse und Abhilfemaßnahmen. Dokumentation des Vorfalls.
+
+## Welche Schulungsmaßnahmen sind erforderlich?
+
+Jährliche Datenschutzschulungen für alle Mitarbeiter. Spezielle Schulungen für neue Mitarbeiter. IT-Sicherheitstrainings mit Phishing-Tests. Sensibilisierung für Social Engineering. Praxisnahe Fallbeispiele aus der Onkologie.
