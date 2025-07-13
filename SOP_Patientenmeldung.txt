@@ -1,0 +1,172 @@
+SOP: Umgang mit Patientenmeldungen zu Fieber, Übelkeit und Müdigkeit während Chemotherapie
+1️⃣ Zweck
+Diese SOP dient der standardisierten, strukturierten Bearbeitung von Patientenanfragen während einer Chemotherapie, insbesondere bei Meldung von:
+
+Fieber
+
+Übelkeit
+
+Müdigkeit
+
+Ziel ist es, potentiell lebensbedrohliche Situationen (z.B. febrile Neutropenie) frühzeitig zu erkennen, Patient:innen Sicherheit zu geben und eine klare Kommunikation im Team sicherzustellen.
+
+2️⃣ Anwendungsbereich
+Gilt für alle MFA, Onkolog:innen und ärztliche Mitarbeiter:innen, die in der Praxis Telefonate, E-Mails, Patientenportal-Nachrichten oder andere Kontaktaufnahmen von onkologischen Patient:innen während einer Chemotherapie bearbeiten.
+
+3️⃣ Verantwortlichkeiten
+MFA/Telefonteam:
+
+Aufnahme der Anfrage
+
+Erhebung der notwendigen Informationen nach Checkliste
+
+Weitergabe der Information an die/den zuständige/n Ärzt:in
+
+Ärzt:in:
+
+Entscheidung über weiteres Vorgehen
+
+Rückmeldung an Patient:in oder Anweisung an MFA zur Rückmeldung
+
+Dokumentation in der Akte
+
+Koordination von ggf. notwendiger ambulanter oder stationärer Vorstellung
+
+4️⃣ Ablauf der Bearbeitung
+4.1 Entgegennahme der Meldung
+✅ Freundlich begrüßen und beruhigen.
+✅ Erklären, dass eine strukturierte Erfassung notwendig ist.
+
+4.2 Strukturierte Datenerfassung (Checkliste)
+A. Personalien & Basisdaten:
+
+Name, Geburtsdatum
+
+Telefonnummer für Rückruf
+
+behandelnde/r Onkolog:in
+
+B. Aktuelle Chemotherapie:
+
+Datum des letzten Zyklus
+
+Art der Therapie (falls bekannt)
+
+ggf. bekannte Leukozytopenie
+
+C. Symptomdetails:
+
+Fieber:
+
+Temperatur? (wie und wann gemessen?)
+
+Seit wann?
+
+Schüttelfrost oder nächtliche Schweißausbrüche?
+
+Weitere Symptome: Husten, Halsschmerzen, Atemnot, Schmerzen, Schüttelfrost, brennender Urin?
+
+Übelkeit:
+
+Seit wann?
+
+Übelkeit oder Erbrechen? Falls ja, wie oft?
+
+Flüssigkeitsaufnahme noch möglich?
+
+Gewichtsabnahme in den letzten Tagen?
+
+Müdigkeit:
+
+Seit wann?
+
+Leistungsfähigkeit vs. üblich?
+
+Schwindel, Schwäche?
+
+Allgemeinzustand:
+
+Kann Patient:in noch trinken/essen?
+
+Urinmenge normal?
+
+Orientiert?
+
+4.3 Ersteinschätzung & Dringlichkeit
+A. Fieber ≥ 38,0°C:
+
+Bei Chemotherapie in den letzten 14 Tagen immer potentieller Notfall.
+
+Risiko febrile Neutropenie → sofortige Abklärung erforderlich.
+
+B. Übelkeit / Müdigkeit ohne Fieber:
+
+Häufige Nebenwirkung, jedoch relevant bei:
+
+Unstillbarem Erbrechen
+
+Keine Flüssigkeitsaufnahme
+
+Zeichen von Exsikkose
+
+Extreme Schwäche / Verwirrtheit
+
+4.4 Entscheidung und Handlungsanweisung
+✅ Fall 1: Fieber ≥ 38,0°C nach Chemotherapie
+
+Anweisung sofortige Vorstellung in der Praxis (noch am selben Tag) oder Notaufnahme.
+
+Keine Fiebersenker vor Vorstellung nehmen.
+
+Begleitperson organisieren, falls Patient:in schwach.
+
+✅ Fall 2: Übelkeit, Erbrechen ohne Fieber
+
+Falls keine Flüssigkeitsaufnahme oder unstillbares Erbrechen → zeitnahe Vorstellung (innerhalb 24 Std).
+
+Bei leichter Übelkeit:
+
+Kleine, häufige Mahlzeiten
+
+Ingwertee oder Kräutertee
+
+Antiemetika wie verordnet einnehmen
+
+Flüssigkeitsbilanz beobachten
+
+✅ Fall 3: Müdigkeit ohne weitere Alarmsymptome
+
+Beobachten, falls zunehmende Schwäche, Schwindel oder Atemnot → Rückmeldung an Praxis oder Vorstellung.
+
+4.5 Rückmeldung an Patient:in
+In ruhigem Ton erklären:
+
+Warum eine rasche Abklärung wichtig ist (z.B. Infektionsgefahr bei Immunschwäche)
+
+Was Patient:in tun soll und was nicht
+
+Ansprechpartner: Praxis, Bereitschaftsdienst, Notaufnahme
+
+Beispiel-Satz:
+
+„Vielen Dank, dass Sie uns informiert haben. Aufgrund des Fiebers in Verbindung mit Ihrer Chemotherapie müssen wir dringend abklären, ob eine Infektion vorliegt, die wir sofort behandeln müssen. Bitte kommen Sie noch heute zu uns oder in die nächste Notaufnahme.“
+
+5️⃣ Dokumentation
+✅ Alle erfragten Symptome und Werte in der Akte dokumentieren.
+✅ Zeitpunkt der Meldung und erteilte Anweisungen festhalten.
+✅ Falls Patient:in abgelehnt hat, sich vorzustellen, ebenfalls dokumentieren.
+✅ Nach Rücksprache mit ärztlichem Team weitere Schritte in der Akte vermerken.
+
+6️⃣ Besondere Hinweise
+Patient:innen mit eingeschränkter Immunabwehr sind Risikopatient:innen. Auch „nur“ leichtes Fieber kann schwerwiegende Ursachen haben.
+
+Bei Unsicherheiten oder diffusen Symptomen (z.B. neu aufgetretene Schmerzen, Luftnot, neurologische Symptome) immer ärztliche Rücksprache.
+
+Bei Alleinlebenden Patient:innen sicherstellen, dass ein Notfallkontakt vorhanden ist.
+
+7️⃣ Schulung und Qualitätssicherung
+Alle MFA sollen mit dieser SOP vertraut sein.
+
+In Teambesprechungen regelmäßig Fallbesprechungen zur Optimierung des Ablaufs.
+
+Diese SOP wird jährlich oder bei Änderungen der Behandlungsrichtlinien aktualisiert.
